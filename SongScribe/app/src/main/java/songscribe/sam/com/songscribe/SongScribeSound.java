@@ -9,8 +9,7 @@ public class SongScribeSound {
 
     public void playSound(){
 
-        MediaPlayer mediaPlayer = MediaPlayer.create(, R.raw.test);
-        mediaPlayer.start();
+
 
     }
 
